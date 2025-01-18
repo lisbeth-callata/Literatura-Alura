@@ -12,13 +12,13 @@
 
 ---
 
-## **📚 Descripción**
+## **Descripción**
 
 **Catálogo de Libros:** es un proyecto desarrollado como parte del **Challenge ONE** del programa **Oracle Next Education**. El objetivo principal de este proyecto es interactuar con una API externa de libros, donde se realizan solicitudes para obtener información relevante sobre diversos títulos. A lo largo del proceso, se manipulan datos en formato JSON, que luego se almacenan en una base de datos para su posterior consulta y gestión. Finalmente, el proyecto permite aplicar filtros y realizar búsquedas específicas para mostrar los libros y autores de interés, facilitando así la organización y visualización eficiente de la información.
 
 ---
 
-## **🌟 Características**
+## **Características**
 
 El Catálogo de Libros proporciona 5 opciones:
 
@@ -36,7 +36,7 @@ El Catálogo de Libros proporciona 5 opciones:
 
 ---
 
-## **🛠️ Tecnologías Utilizadas**
+## **Tecnologías Utilizadas**
 
 - **Java 17**
 - **Spring Boot**
@@ -47,7 +47,7 @@ El Catálogo de Libros proporciona 5 opciones:
 
 ---
 
-## **💾 Base de datos**
+## **Base de datos**
 
 Debe configurar tu base de datos en el archivo application.properties
 
