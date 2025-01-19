@@ -8,6 +8,7 @@
 - [Características](#características)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Base de Datos](#base-de-datos)
+- [Insignia del Proyecto](#insignia-del-proyecto)
 - [Contacto](#contacto)
 
 ---
@@ -57,6 +58,12 @@ spring.datasource.username=tu_usuario
 spring.datasource.password=tu_contraseña
 spring.jpa.hibernate.ddl-auto=update
 ```
+
+---
+
+## **Insignia del Proyecto**
+
+![Image](https://github.com/user-attachments/assets/1871a919-46ad-452c-86d7-19d1e5d43a99)
 
 ---
 
