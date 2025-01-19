@@ -66,7 +66,7 @@ spring.jpa.hibernate.ddl-auto=update
 Insignia recibida por haber completado el Challenge.
 
 <p align="center">
-![Image](https://github.com/user-attachments/assets/1871a919-46ad-452c-86d7-19d1e5d43a99)
+  <img src="https://github.com/user-attachments/assets/1871a919-46ad-452c-86d7-19d1e5d43a99" alt="Imagen" />
 </p>
 
 ---
