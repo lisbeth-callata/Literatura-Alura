@@ -1,4 +1,4 @@
-# **LITERATURA | Challenge 2 - Oracle Next Education**
+# **LITERATURA | Challenge 3 - Oracle Next Education**
 
 ![Proyecto](https://img.shields.io/badge/version-1.0-blue) ![Estado](https://img.shields.io/badge/status-terminado-brightgreen) ![Oracle](https://img.shields.io/badge/oracle-latura%20latam-orange)
 
